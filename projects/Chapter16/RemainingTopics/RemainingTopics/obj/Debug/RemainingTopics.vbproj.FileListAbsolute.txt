@@ -1,0 +1,9 @@
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter17\RemainingTopics\RemainingTopics\bin\Debug\RemainingTopics.exe
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter17\RemainingTopics\RemainingTopics\bin\Debug\RemainingTopics.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter17\RemainingTopics\RemainingTopics\bin\Debug\RemainingTopics.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter17\RemainingTopics\RemainingTopics\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter17\RemainingTopics\RemainingTopics\obj\Debug\RemainingTopics.Resources.resources
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter17\RemainingTopics\RemainingTopics\obj\Debug\RemainingTopics.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter17\RemainingTopics\RemainingTopics\obj\Debug\RemainingTopics.exe
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter17\RemainingTopics\RemainingTopics\obj\Debug\RemainingTopics.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter17\RemainingTopics\RemainingTopics\obj\Debug\RemainingTopics.pdb

@@ -1,0 +1,7 @@
+C:\Documents and Settings\cgross\My Documents\Visual Studio Codename Orcas\Projects\ServerSideSpreadsheet\LumenWorks.Framework.IO\bin\Release\LumenWorks.Framework.IO.dll
+C:\Documents and Settings\cgross\My Documents\Visual Studio Codename Orcas\Projects\ServerSideSpreadsheet\LumenWorks.Framework.IO\bin\Release\LumenWorks.Framework.IO.pdb
+C:\Documents and Settings\cgross\My Documents\Visual Studio Codename Orcas\Projects\ServerSideSpreadsheet\LumenWorks.Framework.IO\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Visual Studio Codename Orcas\Projects\ServerSideSpreadsheet\LumenWorks.Framework.IO\obj\Release\LumenWorks.Framework.IO.Csv.Resources.ExceptionMessage.resources
+C:\Documents and Settings\cgross\My Documents\Visual Studio Codename Orcas\Projects\ServerSideSpreadsheet\LumenWorks.Framework.IO\obj\Release\LumenWorks.Framework.IO.csproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Visual Studio Codename Orcas\Projects\ServerSideSpreadsheet\LumenWorks.Framework.IO\obj\Release\LumenWorks.Framework.IO.dll
+C:\Documents and Settings\cgross\My Documents\Visual Studio Codename Orcas\Projects\ServerSideSpreadsheet\LumenWorks.Framework.IO\obj\Release\LumenWorks.Framework.IO.pdb

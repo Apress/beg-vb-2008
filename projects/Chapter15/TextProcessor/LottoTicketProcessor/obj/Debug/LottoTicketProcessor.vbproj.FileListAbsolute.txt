@@ -1,0 +1,15 @@
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter15\TextProcessor\LottoTicketProcessor\bin\Debug\LottoTicketProcessor.exe
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter15\TextProcessor\LottoTicketProcessor\bin\Debug\LottoTicketProcessor.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter15\TextProcessor\LottoTicketProcessor\bin\Debug\LottoTicketProcessor.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter15\TextProcessor\LottoTicketProcessor\bin\Debug\LottoLibrary.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter15\TextProcessor\LottoTicketProcessor\bin\Debug\ReaderWriter.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter15\TextProcessor\LottoTicketProcessor\bin\Debug\LottoLibrary.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter15\TextProcessor\LottoTicketProcessor\bin\Debug\LottoLibrary.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter15\TextProcessor\LottoTicketProcessor\bin\Debug\ReaderWriter.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter15\TextProcessor\LottoTicketProcessor\bin\Debug\ReaderWriter.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter15\TextProcessor\LottoTicketProcessor\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter15\TextProcessor\LottoTicketProcessor\obj\Debug\LottoTicketProcessor.Resources.resources
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter15\TextProcessor\LottoTicketProcessor\obj\Debug\LottoTicketProcessor.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter15\TextProcessor\LottoTicketProcessor\obj\Debug\LottoTicketProcessor.exe
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter15\TextProcessor\LottoTicketProcessor\obj\Debug\LottoTicketProcessor.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter15\TextProcessor\LottoTicketProcessor\obj\Debug\LottoTicketProcessor.pdb

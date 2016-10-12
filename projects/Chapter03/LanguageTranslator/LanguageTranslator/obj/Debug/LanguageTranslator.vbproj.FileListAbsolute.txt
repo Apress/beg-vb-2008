@@ -1,0 +1,9 @@
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Chapter03\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.dll
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Chapter03\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.pdb
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Chapter03\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.xml
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Chapter03\LanguageTranslator\LanguageTranslator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Chapter03\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.Resources.resources
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Chapter03\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Chapter03\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.dll
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Chapter03\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.xml
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Chapter03\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.pdb

@@ -1,0 +1,12 @@
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Calculator\TestCalculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Calculator\TestCalculator\obj\Debug\TestCalculator.Resources.resources
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Calculator\TestCalculator\obj\Debug\TestCalculator.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Calculator\TestCalculator\bin\Debug\TestCalculator.exe
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Calculator\TestCalculator\bin\Debug\TestCalculator.pdb
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Calculator\TestCalculator\bin\Debug\TestCalculator.xml
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Calculator\TestCalculator\bin\Debug\Calculator.dll
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Calculator\TestCalculator\bin\Debug\Calculator.pdb
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Calculator\TestCalculator\bin\Debug\Calculator.xml
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Calculator\TestCalculator\obj\Debug\TestCalculator.exe
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Calculator\TestCalculator\obj\Debug\TestCalculator.xml
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Calculator\TestCalculator\obj\Debug\TestCalculator.pdb

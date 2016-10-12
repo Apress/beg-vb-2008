@@ -1,0 +1,9 @@
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\Conversion\Conversion\bin\Debug\Conversion.exe
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\Conversion\Conversion\bin\Debug\Conversion.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\Conversion\Conversion\bin\Debug\Conversion.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\Conversion\Conversion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\Conversion\Conversion\obj\Debug\Conversion.Resources.resources
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\Conversion\Conversion\obj\Debug\Conversion.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\Conversion\Conversion\obj\Debug\Conversion.exe
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\Conversion\Conversion\obj\Debug\Conversion.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\Conversion\Conversion\obj\Debug\Conversion.pdb

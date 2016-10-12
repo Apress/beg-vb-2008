@@ -1,0 +1,12 @@
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter04\SearchSolution\TestSearchSolution\bin\Debug\TestSearchSolution.exe
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter04\SearchSolution\TestSearchSolution\bin\Debug\TestSearchSolution.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter04\SearchSolution\TestSearchSolution\bin\Debug\TestSearchSolution.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter04\SearchSolution\TestSearchSolution\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter04\SearchSolution\TestSearchSolution\obj\Debug\TestSearchSolution.Resources.resources
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter04\SearchSolution\TestSearchSolution\obj\Debug\TestSearchSolution.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter04\SearchSolution\TestSearchSolution\obj\Debug\TestSearchSolution.exe
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter04\SearchSolution\TestSearchSolution\obj\Debug\TestSearchSolution.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter04\SearchSolution\TestSearchSolution\obj\Debug\TestSearchSolution.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter04\SearchSolution\TestSearchSolution\bin\Debug\SearchSolution.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter04\SearchSolution\TestSearchSolution\bin\Debug\SearchSolution.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter04\SearchSolution\TestSearchSolution\bin\Debug\SearchSolution.xml

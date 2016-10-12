@@ -1,0 +1,9 @@
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter05\LearningAboutExceptionHandling\LearningAboutExceptionHandling\bin\Debug\LearningAboutExceptionHandling.exe
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter05\LearningAboutExceptionHandling\LearningAboutExceptionHandling\bin\Debug\LearningAboutExceptionHandling.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter05\LearningAboutExceptionHandling\LearningAboutExceptionHandling\bin\Debug\LearningAboutExceptionHandling.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter05\LearningAboutExceptionHandling\LearningAboutExceptionHandling\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter05\LearningAboutExceptionHandling\LearningAboutExceptionHandling\obj\Debug\LearningAboutExceptionHandling.Resources.resources
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter05\LearningAboutExceptionHandling\LearningAboutExceptionHandling\obj\Debug\LearningAboutExceptionHandling.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter05\LearningAboutExceptionHandling\LearningAboutExceptionHandling\obj\Debug\LearningAboutExceptionHandling.exe
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter05\LearningAboutExceptionHandling\LearningAboutExceptionHandling\obj\Debug\LearningAboutExceptionHandling.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter05\LearningAboutExceptionHandling\LearningAboutExceptionHandling\obj\Debug\LearningAboutExceptionHandling.pdb

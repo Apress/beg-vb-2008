@@ -1,0 +1,14 @@
+C:\Documents and Settings\cgross\My Documents\Beginning CSharp\Projects\Chapter11\ServerSideSpreadsheet\LumenWorks.Framework.IO\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Documents and Settings\cgross\My Documents\Beginning CSharp\Projects\Chapter11\ServerSideSpreadsheet\LumenWorks.Framework.IO\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning CSharp\Projects\Chapter11\ServerSideSpreadsheet\LumenWorks.Framework.IO\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Beginning CSharp\Projects\Chapter11\ServerSideSpreadsheet\LumenWorks.Framework.IO\obj\Debug\LumenWorks.Framework.IO.Csv.Resources.ExceptionMessage.resources
+C:\Documents and Settings\cgross\My Documents\Beginning CSharp\Projects\Chapter11\ServerSideSpreadsheet\LumenWorks.Framework.IO\obj\Debug\LumenWorks.Framework.IO.csproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Beginning CSharp\Projects\Chapter11\ServerSideSpreadsheet\LumenWorks.Framework.IO\obj\Debug\LumenWorks.Framework.IO.dll
+C:\Documents and Settings\cgross\My Documents\Beginning CSharp\Projects\Chapter11\ServerSideSpreadsheet\LumenWorks.Framework.IO\obj\Debug\LumenWorks.Framework.IO.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\LumenWorks.Framework.IO\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\LumenWorks.Framework.IO\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\LumenWorks.Framework.IO\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\LumenWorks.Framework.IO\obj\Debug\LumenWorks.Framework.IO.Csv.Resources.ExceptionMessage.resources
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\LumenWorks.Framework.IO\obj\Debug\LumenWorks.Framework.IO.csproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\LumenWorks.Framework.IO\obj\Debug\LumenWorks.Framework.IO.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\LumenWorks.Framework.IO\obj\Debug\LumenWorks.Framework.IO.pdb

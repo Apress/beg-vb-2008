@@ -1,0 +1,9 @@
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter08\LibLightingSystem\LibLightingSystem\bin\Debug\LibLightingSystem.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter08\LibLightingSystem\LibLightingSystem\bin\Debug\LibLightingSystem.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter08\LibLightingSystem\LibLightingSystem\bin\Debug\LibLightingSystem.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter08\LibLightingSystem\LibLightingSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter08\LibLightingSystem\LibLightingSystem\obj\Debug\LibLightingSystem.Resources.resources
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter08\LibLightingSystem\LibLightingSystem\obj\Debug\LibLightingSystem.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter08\LibLightingSystem\LibLightingSystem\obj\Debug\LibLightingSystem.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter08\LibLightingSystem\LibLightingSystem\obj\Debug\LibLightingSystem.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter08\LibLightingSystem\LibLightingSystem\obj\Debug\LibLightingSystem.pdb

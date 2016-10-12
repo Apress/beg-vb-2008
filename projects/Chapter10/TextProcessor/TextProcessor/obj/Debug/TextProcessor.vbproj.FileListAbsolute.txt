@@ -1,0 +1,12 @@
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter10\TextProcessor\TextProcessor\bin\Debug\TextProcessor.exe
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter10\TextProcessor\TextProcessor\bin\Debug\TextProcessor.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter10\TextProcessor\TextProcessor\bin\Debug\TextProcessor.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter10\TextProcessor\TextProcessor\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter10\TextProcessor\TextProcessor\obj\Debug\TextProcessor.Resources.resources
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter10\TextProcessor\TextProcessor\obj\Debug\TextProcessor.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter10\TextProcessor\TextProcessor\obj\Debug\TextProcessor.exe
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter10\TextProcessor\TextProcessor\obj\Debug\TextProcessor.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter10\TextProcessor\TextProcessor\obj\Debug\TextProcessor.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter10\TextProcessor\TextProcessor\bin\Debug\ReaderWriter.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter10\TextProcessor\TextProcessor\bin\Debug\ReaderWriter.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter10\TextProcessor\TextProcessor\bin\Debug\ReaderWriter.xml

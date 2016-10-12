@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LibLightingSystem", "LibLightingSystem\LibLightingSystem.vbproj", "{69B88A46-05AD-49E2-9C44-90126D852D3A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Home", "Home\Home.vbproj", "{0B2A716C-F093-4642-A775-6C8EAEBD0894}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Museum", "Museum\Museum.vbproj", "{C542BDBC-4F67-4EEA-B744-EB840EF98E95}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TestLightingSystem", "TestLightingSystem\TestLightingSystem.vbproj", "{3775AEEE-9FF1-43B2-908D-45D46728B3F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69B88A46-05AD-49E2-9C44-90126D852D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B88A46-05AD-49E2-9C44-90126D852D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B88A46-05AD-49E2-9C44-90126D852D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B88A46-05AD-49E2-9C44-90126D852D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B2A716C-F093-4642-A775-6C8EAEBD0894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2A716C-F093-4642-A775-6C8EAEBD0894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2A716C-F093-4642-A775-6C8EAEBD0894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2A716C-F093-4642-A775-6C8EAEBD0894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C542BDBC-4F67-4EEA-B744-EB840EF98E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C542BDBC-4F67-4EEA-B744-EB840EF98E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C542BDBC-4F67-4EEA-B744-EB840EF98E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C542BDBC-4F67-4EEA-B744-EB840EF98E95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3775AEEE-9FF1-43B2-908D-45D46728B3F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3775AEEE-9FF1-43B2-908D-45D46728B3F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3775AEEE-9FF1-43B2-908D-45D46728B3F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3775AEEE-9FF1-43B2-908D-45D46728B3F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

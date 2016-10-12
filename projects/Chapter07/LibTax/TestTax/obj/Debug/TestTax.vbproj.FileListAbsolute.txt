@@ -1,0 +1,9 @@
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter07\LibTax\TestTax\bin\Debug\TestTax.exe
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter07\LibTax\TestTax\bin\Debug\TestTax.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter07\LibTax\TestTax\bin\Debug\TestTax.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter07\LibTax\TestTax\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter07\LibTax\TestTax\obj\Debug\TestTax.Resources.resources
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter07\LibTax\TestTax\obj\Debug\TestTax.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter07\LibTax\TestTax\obj\Debug\TestTax.exe
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter07\LibTax\TestTax\obj\Debug\TestTax.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter07\LibTax\TestTax\obj\Debug\TestTax.pdb

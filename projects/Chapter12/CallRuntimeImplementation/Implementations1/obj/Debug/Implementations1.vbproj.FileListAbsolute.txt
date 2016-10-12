@@ -1,0 +1,15 @@
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\Implementations1\bin\Debug\Implementations1.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\Implementations1\bin\Debug\Implementations1.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\Implementations1\bin\Debug\Implementations1.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\Implementations1\bin\Debug\Definitions.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\Implementations1\bin\Debug\Definitions.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\Implementations1\bin\Debug\Definitions.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\Implementations1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\Implementations1\obj\Debug\Implementations1.Resources.resources
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\Implementations1\obj\Debug\Implementations1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\Implementations1\obj\Debug\Implementations1.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\Implementations1\obj\Debug\Implementations1.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\Implementations1\obj\Debug\Implementations1.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\bin\Implementations1.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\bin\Implementations1.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\bin\Implementations1.xml

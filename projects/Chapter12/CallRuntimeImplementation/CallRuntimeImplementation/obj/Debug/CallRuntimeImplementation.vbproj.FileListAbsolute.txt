@@ -1,0 +1,17 @@
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\CallRuntimeImplementation\bin\Debug\CallRuntimeImplementation.exe.config
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\CallRuntimeImplementation\bin\Debug\CallRuntimeImplementation.exe
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\CallRuntimeImplementation\bin\Debug\CallRuntimeImplementation.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\CallRuntimeImplementation\bin\Debug\CallRuntimeImplementation.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\CallRuntimeImplementation\bin\Debug\Definitions.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\CallRuntimeImplementation\bin\Debug\Definitions.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\CallRuntimeImplementation\bin\Debug\Definitions.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\CallRuntimeImplementation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\CallRuntimeImplementation\obj\Debug\CallRuntimeImplementation.Resources.resources
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\CallRuntimeImplementation\obj\Debug\CallRuntimeImplementation.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\CallRuntimeImplementation\obj\Debug\CallRuntimeImplementation.exe
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\CallRuntimeImplementation\obj\Debug\CallRuntimeImplementation.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\CallRuntimeImplementation\obj\Debug\CallRuntimeImplementation.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\bin\CallRuntimeImplementation.exe.config
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\bin\CallRuntimeImplementation.exe
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\bin\CallRuntimeImplementation.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\bin\CallRuntimeImplementation.xml

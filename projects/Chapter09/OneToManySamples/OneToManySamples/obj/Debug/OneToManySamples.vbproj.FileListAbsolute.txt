@@ -1,0 +1,9 @@
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter09\OneToManySamples\OneToManySamples\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter09\OneToManySamples\OneToManySamples\obj\Debug\OneToManySamples.Resources.resources
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter09\OneToManySamples\OneToManySamples\obj\Debug\OneToManySamples.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter09\OneToManySamples\OneToManySamples\bin\Debug\OneToManySamples.exe
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter09\OneToManySamples\OneToManySamples\bin\Debug\OneToManySamples.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter09\OneToManySamples\OneToManySamples\bin\Debug\OneToManySamples.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter09\OneToManySamples\OneToManySamples\obj\Debug\OneToManySamples.exe
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter09\OneToManySamples\OneToManySamples\obj\Debug\OneToManySamples.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter09\OneToManySamples\OneToManySamples\obj\Debug\OneToManySamples.pdb

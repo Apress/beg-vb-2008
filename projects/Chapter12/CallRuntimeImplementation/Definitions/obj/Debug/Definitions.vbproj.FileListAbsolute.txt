@@ -1,0 +1,12 @@
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\Definitions\bin\Debug\Definitions.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\Definitions\bin\Debug\Definitions.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\Definitions\bin\Debug\Definitions.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\Definitions\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\Definitions\obj\Debug\Definitions.Resources.resources
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\Definitions\obj\Debug\Definitions.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\Definitions\obj\Debug\Definitions.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\Definitions\obj\Debug\Definitions.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\Definitions\obj\Debug\Definitions.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\bin\Definitions.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\bin\Definitions.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter12\CallRuntimeImplementation\bin\Definitions.xml

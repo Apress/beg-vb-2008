@@ -1,0 +1,12 @@
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Chapter03\LanguageTranslator\TestLanguageTranslator\bin\Debug\TestLanguageTranslator.exe
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Chapter03\LanguageTranslator\TestLanguageTranslator\bin\Debug\TestLanguageTranslator.pdb
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Chapter03\LanguageTranslator\TestLanguageTranslator\bin\Debug\TestLanguageTranslator.xml
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Chapter03\LanguageTranslator\TestLanguageTranslator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Chapter03\LanguageTranslator\TestLanguageTranslator\obj\Debug\TestLanguageTranslator.Resources.resources
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Chapter03\LanguageTranslator\TestLanguageTranslator\obj\Debug\TestLanguageTranslator.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Chapter03\LanguageTranslator\TestLanguageTranslator\obj\Debug\TestLanguageTranslator.exe
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Chapter03\LanguageTranslator\TestLanguageTranslator\obj\Debug\TestLanguageTranslator.xml
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Chapter03\LanguageTranslator\TestLanguageTranslator\obj\Debug\TestLanguageTranslator.pdb
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Chapter03\LanguageTranslator\TestLanguageTranslator\bin\Debug\LanguageTranslator.dll
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Chapter03\LanguageTranslator\TestLanguageTranslator\bin\Debug\LanguageTranslator.pdb
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Chapter03\LanguageTranslator\TestLanguageTranslator\bin\Debug\LanguageTranslator.xml

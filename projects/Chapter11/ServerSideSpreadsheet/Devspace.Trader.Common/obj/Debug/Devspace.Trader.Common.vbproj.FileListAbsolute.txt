@@ -1,0 +1,11 @@
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\Devspace.Trader.Common\bin\Debug\Devspace.Trader.Common.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\Devspace.Trader.Common\bin\Debug\Devspace.Trader.Common.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\Devspace.Trader.Common\bin\Debug\Devspace.Trader.Common.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\Devspace.Trader.Common\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\Devspace.Trader.Common\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\Devspace.Trader.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\Devspace.Trader.Common\obj\Debug\Devspace.Trader.Common.Resources.resources
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\Devspace.Trader.Common\obj\Debug\Devspace.Trader.Common.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\Devspace.Trader.Common\obj\Debug\Devspace.Trader.Common.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\Devspace.Trader.Common\obj\Debug\Devspace.Trader.Common.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\Devspace.Trader.Common\obj\Debug\Devspace.Trader.Common.pdb

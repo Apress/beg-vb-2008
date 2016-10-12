@@ -1,0 +1,14 @@
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\ServerSideSpreadsheet\bin\Debug\ServerSideSpreadsheet.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\ServerSideSpreadsheet\bin\Debug\ServerSideSpreadsheet.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\ServerSideSpreadsheet\bin\Debug\ServerSideSpreadsheet.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\ServerSideSpreadsheet\bin\Debug\Devspace.Trader.Common.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\ServerSideSpreadsheet\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\ServerSideSpreadsheet\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\ServerSideSpreadsheet\bin\Debug\Devspace.Trader.Common.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\ServerSideSpreadsheet\bin\Debug\Devspace.Trader.Common.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\ServerSideSpreadsheet\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\ServerSideSpreadsheet\obj\Debug\ServerSideSpreadsheet.Resources.resources
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\ServerSideSpreadsheet\obj\Debug\ServerSideSpreadsheet.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\ServerSideSpreadsheet\obj\Debug\ServerSideSpreadsheet.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\ServerSideSpreadsheet\obj\Debug\ServerSideSpreadsheet.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter11\ServerSideSpreadsheet\ServerSideSpreadsheet\obj\Debug\ServerSideSpreadsheet.pdb

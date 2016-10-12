@@ -1,0 +1,12 @@
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\WindowsApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\WindowsApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\WindowsApplication\ConsoleApplication\bin\Debug\ConsoleApplication.xml
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\WindowsApplication\ConsoleApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\WindowsApplication\ConsoleApplication\obj\Debug\ConsoleApplication.Resources.resources
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\WindowsApplication\ConsoleApplication\obj\Debug\ConsoleApplication.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\WindowsApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\WindowsApplication\ConsoleApplication\obj\Debug\ConsoleApplication.xml
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\WindowsApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\WindowsApplication\ConsoleApplication\bin\Debug\ClassLibrary.dll
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\WindowsApplication\ConsoleApplication\bin\Debug\ClassLibrary.pdb
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\WindowsApplication\ConsoleApplication\bin\Debug\ClassLibrary.xml

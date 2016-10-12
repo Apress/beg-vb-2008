@@ -1,0 +1,9 @@
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter10\TextProcessor\Text2Binary\bin\Debug\Text2Binary.exe
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter10\TextProcessor\Text2Binary\bin\Debug\Text2Binary.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter10\TextProcessor\Text2Binary\bin\Debug\Text2Binary.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter10\TextProcessor\Text2Binary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter10\TextProcessor\Text2Binary\obj\Debug\Text2Binary.Resources.resources
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter10\TextProcessor\Text2Binary\obj\Debug\Text2Binary.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter10\TextProcessor\Text2Binary\obj\Debug\Text2Binary.exe
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter10\TextProcessor\Text2Binary\obj\Debug\Text2Binary.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter10\TextProcessor\Text2Binary\obj\Debug\Text2Binary.pdb

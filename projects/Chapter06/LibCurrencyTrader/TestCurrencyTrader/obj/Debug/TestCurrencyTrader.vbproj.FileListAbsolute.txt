@@ -1,0 +1,9 @@
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter06\LibCurrencyTrader\TestCurrencyTrader\bin\Debug\TestCurrencyTrader.exe
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter06\LibCurrencyTrader\TestCurrencyTrader\bin\Debug\TestCurrencyTrader.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter06\LibCurrencyTrader\TestCurrencyTrader\bin\Debug\TestCurrencyTrader.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter06\LibCurrencyTrader\TestCurrencyTrader\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter06\LibCurrencyTrader\TestCurrencyTrader\obj\Debug\TestCurrencyTrader.Resources.resources
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter06\LibCurrencyTrader\TestCurrencyTrader\obj\Debug\TestCurrencyTrader.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter06\LibCurrencyTrader\TestCurrencyTrader\obj\Debug\TestCurrencyTrader.exe
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter06\LibCurrencyTrader\TestCurrencyTrader\obj\Debug\TestCurrencyTrader.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter06\LibCurrencyTrader\TestCurrencyTrader\obj\Debug\TestCurrencyTrader.pdb

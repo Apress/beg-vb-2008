@@ -1,0 +1,10 @@
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\WindowsApplication\WindowsApplication\bin\Debug\WindowsApplication.exe
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\WindowsApplication\WindowsApplication\bin\Debug\WindowsApplication.pdb
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\WindowsApplication\WindowsApplication\bin\Debug\WindowsApplication.xml
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\WindowsApplication\WindowsApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\WindowsApplication\WindowsApplication\obj\Debug\WindowsApplication.Resources.resources
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\WindowsApplication\WindowsApplication\obj\Debug\WindowsApplication.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\WindowsApplication\WindowsApplication\obj\Debug\WindowsApplication.exe
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\WindowsApplication\WindowsApplication\obj\Debug\WindowsApplication.xml
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\WindowsApplication\WindowsApplication\obj\Debug\WindowsApplication.pdb
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\WindowsApplication\WindowsApplication\obj\Debug\WindowsApplication.Form1.resources

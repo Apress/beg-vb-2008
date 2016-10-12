@@ -1,0 +1,9 @@
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Calculator\Calculator\bin\Debug\Calculator.dll
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.dll
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Documents and Settings\cgross\My Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb

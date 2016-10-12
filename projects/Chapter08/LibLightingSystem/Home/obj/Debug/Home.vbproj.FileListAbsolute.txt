@@ -1,0 +1,9 @@
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter08\LibLightingSystem\Home\bin\Debug\Home.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter08\LibLightingSystem\Home\bin\Debug\Home.pdb
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter08\LibLightingSystem\Home\bin\Debug\Home.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter08\LibLightingSystem\Home\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter08\LibLightingSystem\Home\obj\Debug\Home.Resources.resources
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter08\LibLightingSystem\Home\obj\Debug\Home.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter08\LibLightingSystem\Home\obj\Debug\Home.dll
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter08\LibLightingSystem\Home\obj\Debug\Home.xml
+C:\Documents and Settings\cgross\My Documents\Beginning VisualBasic\projects\Chapter08\LibLightingSystem\Home\obj\Debug\Home.pdb
